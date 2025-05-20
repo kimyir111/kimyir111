@@ -28,9 +28,7 @@
   
 [티스토리 블로그](https://kimyir.tistory.com/)
 
-![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyir2@gmail.com)](mailto:kimyir2@gmail.com)
-
-
+![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) in [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyir2@gmail.com)](mailto:kimyir2@gmail.com) kimyir2@gmail.com
 
 
 
