@@ -11,7 +11,7 @@
 - Game Programming
   - Play Store Game
   - Steam Game
-  - Game Asset Store Publisher 
+  - Unity Asset Store Publisher 
     
 
   </td>
