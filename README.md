@@ -35,7 +35,7 @@
 | ⚔️ **HGD Survivor** | PC (itch.io / Steam) | [itch.io](https://kimyir.itch.io/hgd-survivor) |
 
 
-| Asset | Name | Link |
+| Asset | Link |
 |------|----------|------|
 | 🖥️ **Glitch TMP VFX Pack - TextMeshPro** | [AssetStore](https://assetstore.unity.com/packages/vfx/shaders/glitch-tmp-vfx-pack-textmeshpro-303031) |
 | 🎨 **Doodle TMP VFX Pack -TextMeshPro** | [AssetStore](https://assetstore.unity.com/packages/vfx/shaders/doodle-tmp-vfx-pack-textmeshpro-304968) |
