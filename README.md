@@ -36,7 +36,7 @@
 
 
 | Asset | Link |
-|------|----------|------|
+|------|------|
 | 🖥️ **Glitch TMP VFX Pack - TextMeshPro** | [AssetStore](https://assetstore.unity.com/packages/vfx/shaders/glitch-tmp-vfx-pack-textmeshpro-303031) |
 | 🎨 **Doodle TMP VFX Pack -TextMeshPro** | [AssetStore](https://assetstore.unity.com/packages/vfx/shaders/doodle-tmp-vfx-pack-textmeshpro-304968) |
 </div>
