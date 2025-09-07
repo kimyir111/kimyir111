@@ -34,6 +34,11 @@
 | 🐇🧊 **코나와 스노래빗** | PC (Steam) / Switch | [Steam](https://store.steampowered.com/app/2726560/_/?l=koreana) |
 | ⚔️ **HGD Survivor** | PC (itch.io / Steam) | [itch.io](https://kimyir.itch.io/hgd-survivor) |
 
+
+| Asset | Name | Link |
+|------|----------|------|
+| 🖥️ **Glitch TMP VFX Pack - TextMeshPro** | [AssetStore](https://assetstore.unity.com/packages/vfx/shaders/glitch-tmp-vfx-pack-textmeshpro-303031) |
+| 🎨 **Doodle TMP VFX Pack -TextMeshPro** | [AssetStore](https://assetstore.unity.com/packages/vfx/shaders/doodle-tmp-vfx-pack-textmeshpro-304968) |
 </div>
 
 ---
