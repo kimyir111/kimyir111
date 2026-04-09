@@ -30,7 +30,7 @@
 | Game | Platform | Link |
 |------|--------------|------|
 | 🐇 **토끼 요미 힐링 카페** | Mobile (Google Play) | [Play Store](https://play.google.com/store/apps/details?id=com.stellarabbit.cutebunnycafe) |
-| 🐇 **토끼를 찾아라!** | Mobile (Google Play) | [사전예약](https://app--find-bunny-8ac93c62.base44.app/) |
+| 🐇 **파인드 버니** | PC (Steam) / Mobile (Google Play) | [스팀](https://store.steampowered.com/app/4324730/Find_Bunny__A_Little_Hidden_Journey/) |
 | 🐇🧊 **코나와 스노래빗** | PC (Steam) / Switch | [Steam](https://store.steampowered.com/app/2726560/_/?l=koreana) |
 | ⚔️ **HGD Survivor** | PC (itch.io / Steam) | [itch.io](https://kimyir.itch.io/hgd-survivor) |
 
